@@ -132,3 +132,7 @@ reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><
 ## License
 
 MIT
+
+## To refer to later for improvements:
+* Creating multiple site.posts for different lists:
+    * https://www.csrhymes.com/development/2017/10/27/multiple-post-types-in-jekyll.html

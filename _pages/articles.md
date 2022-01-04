@@ -5,7 +5,7 @@ title: Articles
 ---
 
 <div class="posts">
-  {% for post in posts.posts %}
+  {% for post in site.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>

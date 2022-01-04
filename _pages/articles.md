@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+permalink: /articles/
+title: Articles
 ---
 
 <div class="posts">
